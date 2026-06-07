@@ -1,0 +1,5 @@
+data analytics is the science of analyzing raw data to make conclusions. 
+    data science and machine learning are shifting industrial paradigms. 
+    python is a powerful programming language for data engineering.
+    machine learning algorithms help build smart predictive applications.
+    analytics tools help business analysts process information.
